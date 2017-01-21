@@ -1,2 +1,2 @@
 # start-coding
-I'm about to start coding
+The first comment was pretty lame.
